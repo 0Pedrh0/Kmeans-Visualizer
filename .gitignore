@@ -17,8 +17,4 @@ venv/
 # Windows
 Thumbs.db
 
-# Executables
-*.exe
-dist/
-build/
 
