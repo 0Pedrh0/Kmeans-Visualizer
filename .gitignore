@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Executables
+*.exe
+dist/
+build/
+
