@@ -19,6 +19,7 @@ L’interface graphique est réalisée avec **Tkinter** et **ttkbootstrap**, et 
 Si vous utilisez Windows, un exécutable est fourni dans le dossier `dist` :
 
 dist/kmeans_visualizer.exe
+
 Il suffit de double-cliquer sur l’exécutable ou de le lancer depuis la ligne de commande pour démarrer l’application.
 
 ### Sur Linux (ou depuis le code source)
