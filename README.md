@@ -18,7 +18,7 @@ L’interface graphique est réalisée avec **Tkinter** et **ttkbootstrap**, et 
 
 Si vous utilisez Windows, un exécutable est fourni dans le dossier `dist` :
 
-dist/kmeans_visualizer.exe
+dist/K-Means_GUI.exe
 
 Il suffit de double-cliquer sur l’exécutable ou de le lancer depuis la ligne de commande pour démarrer l’application.
 
@@ -28,4 +28,4 @@ Pour Linux, ou si vous voulez exécuter le projet depuis le code source Python :
 Assurez-vous d’avoir Python 3.8+ installé.
 Si c'est bon, lancez cette ligne de code :  
 
-python kmeans_visualizer.py
+python K-Means_GUI.py
